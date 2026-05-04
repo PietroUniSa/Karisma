@@ -325,8 +325,8 @@ function TeamSection() {
 
   const team = [
     {
-      name: "Dr.ssa Maria Rossi",
-      role: "Direttrice & Estetista Senior",
+      name: "Carmela Coticella",
+      role: "Direttrice e Estetista Senior",
       certifications: ["CIDESCO", "Dermalogica"],
       image: "/professional-headshot-of-happy-woman-with-glowing-.jpg"
     },
@@ -767,7 +767,7 @@ function DoveSiamoSection() {
       icon: <MapPin className="w-8 h-8" />,
       title: "Indirizzo",
       content: "Via Roma 123, 00100 Roma",
-      href: "https://maps.google.com/?q=Via+Roma+123+Roma"
+      href: "https://maps.app.goo.gl/ikjFRxyRfcGJgDA38"
     },
     {
       icon: <Phone className="w-8 h-8" />,
